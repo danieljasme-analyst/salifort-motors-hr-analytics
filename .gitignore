@@ -1,0 +1,20 @@
+# Pickle files — too large for GitHub
+*.pickle
+*.pkl
+
+# Dataset — do not upload Kaggle data
+HR_capstone_dataset.csv
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
